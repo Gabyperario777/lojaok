@@ -1,1 +1,1 @@
-Site para a loja http://loja.github.iio/
+Site para a loja http://loja.github.io/
